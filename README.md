@@ -1,2 +1,3 @@
 # Gobang
-Gobang Game
+Implementation of Gobang game with C++!
+To be continued...
